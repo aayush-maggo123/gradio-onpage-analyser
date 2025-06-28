@@ -1,0 +1,20 @@
+# Core dependencies for the Gradio SEO Analyzer
+gradio>=4.0.0
+openai>=1.0.0
+openai-agents>=0.0.4
+python-dotenv>=1.0.0
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+nest-asyncio>=1.5.0
+
+# Additional dependencies that might be needed
+lxml>=4.9.0
+soupsieve>=2.4.0
+urllib3>=2.0.0
+certifi>=2023.0.0
+charset-normalizer>=3.0.0
+idna>=3.4.0
+
+# Optional: For better performance and features
+aiohttp>=3.8.0
+asyncio-throttle>=1.0.0 
